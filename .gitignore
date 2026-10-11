@@ -15,9 +15,8 @@ Project Outputs for */
 *.gz
 
 # PDF documents
-*.pdf
-*.PDF
-
+/PCB/**/*.pdf
+/PCB/**/*.PDF
 # Previews and local history
 __Previews/
 History/
