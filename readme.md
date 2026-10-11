@@ -27,10 +27,10 @@ The project was developed from scratch, including circuit design, PCB layout, em
 The electronic circuit and PCB were designed from scratch in Altium Designer.
 
 ![PCB render](images/3D-pcb-front.png)
-![PCB](images/front.png)
+![PCB](images/pcb-front.png)
 
 ![PCB render](images/3D-pcb-back.png)
-![PCB](images/back.png)
+![PCB](images/pcb-back.png)
 
 ## Enclosure Design
 
