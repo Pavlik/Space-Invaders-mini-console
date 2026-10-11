@@ -1,0 +1,32 @@
+# Altium Designer — generated files
+
+# Project logs and outputs
+Project Logs for */
+Project Outputs for */
+
+# CAMtastic documents
+*.Cam
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# PDF documents
+*.pdf
+*.PDF
+
+# Previews and local history
+__Previews/
+History/
+
+# Generated project structure
+*.PrjPcbStructure
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
+*.log
